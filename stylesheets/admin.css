@@ -1,0 +1,63 @@
+a:hover {
+    
+    
+  
+    
+    
+    
+}
+
+a:click{
+    
+    
+}
+
+a:active{
+    background-color: rgba (0, 0, 0, 0);
+    
+    
+    
+    
+}
+
+.colm12{
+    color:black ;
+    background-color:white;
+    opacity: 0.7
+}
+        
+.colm6{
+    background-color:white;
+    color:black ;
+    opacity: 0.7
+}
+
+.h1{
+    font-size:medium;
+    
+}
+
+.content-bordering{
+    border-style: solid;
+    border-color: whitesmoke;
+    color:black ;
+    opacity: 0.7 ;
+    background-color: gray;
+}
+
+.topnav{
+    background-color: blueviolet;
+    
+    
+}
+
+body{
+    background-color: white;
+    
+    
+}
+
+textarea {width:60%;
+min-height: 100px;
+
+}
